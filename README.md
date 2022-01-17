@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meshack199
 - 👀 I’m interested in ...machine lerning concepts and data analytics
 - 🌱 I’m currently learning ...internet of things at a beginner level and major in electrical and telecommunication engineering option
-- 💞️ I’m looking to collaborate on ...projects that involve machine lerning oncepts, IoT, Telecommuications and data analysis using the Panda and Numpy module.
+- 💞️ I’m looking to collaborate on ...projects that involve machine lerning oncepts, IoT, Telecommuications and data analysis/visualisation.
 - 📫 How to reach me ...you can reach me via my personal mail (meshackkipsang199@gmail.com)
 
 <!---
